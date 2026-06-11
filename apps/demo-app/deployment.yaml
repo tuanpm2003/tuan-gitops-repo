@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: phanminhtuan/tuan-app-repo:latest
+          image: phanminhtuan/tuan-app-repo:ee2b5fd572f97f592a1e4a2006c5713516e43ec8
           ports:
             - containerPort: 80
