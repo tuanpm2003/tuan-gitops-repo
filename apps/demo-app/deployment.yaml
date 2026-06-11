@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: ghcr.io/tuanpm2003/tuan-app-repo:4734418c29a954d649ba36a0dff5c7aecdfb4578
+          image: phanminhtuan/tuan-app-repo:latest
           ports:
             - containerPort: 80
